@@ -18,6 +18,7 @@ import numpy as np
 A= np.array([[3,2,5],[1,1,2],[3,3,6]])
 result= np.linalg.matrix_rank(A)
 print(result)
+
 ```
 # output:
 #![alt text](<Screenshot 2025-03-21 112135.png>) 
